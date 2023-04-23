@@ -1,0 +1,3 @@
+I am on my way to pass NetAcad DEVSAC exam
+I am begining to understand Git
+This text was added orginally while in the feature branch
